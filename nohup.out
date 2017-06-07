@@ -141,3 +141,164 @@ decoder/attention_decoder/AttnOutputProjection/AttnOutputProjection/biases:0    
 
 [31m2017-06-07 21:02:26[0m: Epoch 9 starts
 [33m2017-06-07 21:02:52[0m: Epoch 9/30  Instances 42432  target/train_xent: 0.04771    target/BLEU-1: 26.22    target/runtime_xent: 0.06023[1m    target/BLEU-4: 1.976[0m
+[33m2017-06-07 21:03:19[0m: Epoch 9/30  Instances 44992  target/train_xent: 0.0473    target/BLEU-1: 20.57    target/runtime_xent: 0.06154[1m    target/BLEU-4: 1.241[0m
+
+[31m2017-06-07 21:03:19[0m: Epoch 10 starts
+[33m2017-06-07 21:03:45[0m: Epoch 10/30  Instances 47432  target/train_xent: 0.04693    target/BLEU-1: 27.41    target/runtime_xent: 0.06023[1m    target/BLEU-4: 2.035[0m
+[33m2017-06-07 21:04:12[0m: Epoch 10/30  Instances 49992  target/train_xent: 0.04637    target/BLEU-1: 23.89    target/runtime_xent: 0.0603[1m    target/BLEU-4: 1.375[0m
+
+[31m2017-06-07 21:04:12[0m: Epoch 11 starts
+[33m2017-06-07 21:04:38[0m: Epoch 11/30  Instances 52432  target/train_xent: 0.04613    target/BLEU-1: 26.1    target/runtime_xent: 0.05982[1m    target/BLEU-4: 2.358[0m
+[33m2017-06-07 21:05:05[0m: Epoch 11/30  Instances 54992  target/train_xent: 0.04582    target/BLEU-1: 22.06    target/runtime_xent: 0.05991[1m    target/BLEU-4: 1.15[0m
+
+[31m2017-06-07 21:05:05[0m: Epoch 12 starts
+[33m2017-06-07 21:05:31[0m: Epoch 12/30  Instances 57432  target/train_xent: 0.04547    target/BLEU-1: 28.94    target/runtime_xent: 0.0596[1m    target/BLEU-4: 2.463[0m
+[33m2017-06-07 21:05:57[0m: Epoch 12/30  Instances 59992  target/train_xent: 0.04504    target/BLEU-1: 24.6    target/runtime_xent: 0.06042[1m    target/BLEU-4: 1.1[0m
+
+[31m2017-06-07 21:05:58[0m: Epoch 13 starts
+[33m2017-06-07 21:06:23[0m: Epoch 13/30  Instances 62432  target/train_xent: 0.04486    target/BLEU-1: 28.5    target/runtime_xent: 0.05997[1m    target/BLEU-4: 2.325[0m
+[33m2017-06-07 21:06:50[0m: Epoch 13/30  Instances 64992  target/train_xent: 0.04439    target/BLEU-1: 25.11    target/runtime_xent: 0.06027[1m    target/BLEU-4: 1.527[0m
+
+[31m2017-06-07 21:06:51[0m: Epoch 14 starts
+[33m2017-06-07 21:07:16[0m: Epoch 14/30  Instances 67432  target/train_xent: 0.04412    target/BLEU-1: 28.26    target/runtime_xent: 0.05954[1m    target/BLEU-4: 2.301[0m
+[33m2017-06-07 21:07:43[0m: Epoch 14/30  Instances 69992  target/train_xent: 0.04379    target/BLEU-1: 25.66    target/runtime_xent: 0.05999[1m    target/BLEU-4: 1.373[0m
+
+[31m2017-06-07 21:07:43[0m: Epoch 15 starts
+[33m2017-06-07 21:08:09[0m: Epoch 15/30  Instances 72432  target/train_xent: 0.04342    target/BLEU-1: 28.83    target/runtime_xent: 0.05982[1m    target/BLEU-4: 2.493[0m
+[33m2017-06-07 21:08:36[0m: Epoch 15/30  Instances 74992  target/train_xent: 0.04326    target/BLEU-1: 26.19    target/runtime_xent: 0.05985[1m    target/BLEU-4: 1.812[0m
+
+[31m2017-06-07 21:08:36[0m: Epoch 16 starts
+[33m2017-06-07 21:09:02[0m: Epoch 16/30  Instances 77432  target/train_xent: 0.04286    target/BLEU-1: 28.22    target/runtime_xent: 0.05985[1m    target/BLEU-4: 2.459[0m
+[33m2017-06-07 21:09:29[0m: Epoch 16/30  Instances 79992  target/train_xent: 0.04309    target/BLEU-1: 28.72    target/runtime_xent: 0.06001[1m    target/BLEU-4: 1.939[0m
+
+[31m2017-06-07 21:09:29[0m: Epoch 17 starts
+[33m2017-06-07 21:09:55[0m: Epoch 17/30  Instances 82432  target/train_xent: 0.04274    target/BLEU-1: 27.65    target/runtime_xent: 0.06095[1m    target/BLEU-4: 2.067[0m
+[33m2017-06-07 21:10:22[0m: Epoch 17/30  Instances 84992  target/train_xent: 0.04241    target/BLEU-1: 23.74    target/runtime_xent: 0.05961[1m    target/BLEU-4: 2.078[0m
+
+[31m2017-06-07 21:10:22[0m: Epoch 18 starts
+[33m2017-06-07 21:10:48[0m: Epoch 18/30  Instances 87432  target/train_xent: 0.042    target/BLEU-1: 28.13    target/runtime_xent: 0.06018[1m    target/BLEU-4: 2.52[0m
+[33m2017-06-07 21:11:15[0m: Epoch 18/30  Instances 89992  target/train_xent: 0.04181    target/BLEU-1: 25.02    target/runtime_xent: 0.06017[1m    target/BLEU-4: 1.998[0m
+
+[31m2017-06-07 21:11:15[0m: Epoch 19 starts
+[33m2017-06-07 21:11:41[0m: Epoch 19/30  Instances 92432  target/train_xent: 0.04141    target/BLEU-1: 30.57    target/runtime_xent: 0.06004[1m    target/BLEU-4: 2.658[0m
+[33m2017-06-07 21:12:08[0m: Epoch 19/30  Instances 94992  target/train_xent: 0.04134    target/BLEU-1: 30.16    target/runtime_xent: 0.0602[1m    target/BLEU-4: 2.357[0m
+
+[31m2017-06-07 21:12:08[0m: Epoch 20 starts
+[33m2017-06-07 21:12:34[0m: Epoch 20/30  Instances 97432  target/train_xent: 0.04103    target/BLEU-1: 25.02    target/runtime_xent: 0.06[1m    target/BLEU-4: 2.32[0m
+[33m2017-06-07 21:13:01[0m: Epoch 20/30  Instances 99992  target/train_xent: 0.04118    target/BLEU-1: 29.11    target/runtime_xent: 0.06047[1m    target/BLEU-4: 2.13[0m
+
+[31m2017-06-07 21:13:01[0m: Epoch 21 starts
+[33m2017-06-07 21:13:27[0m: Epoch 21/30  Instances 102432  target/train_xent: 0.04038    target/BLEU-1: 25.46    target/runtime_xent: 0.05989[1m    target/BLEU-4: 2.292[0m
+[33m2017-06-07 21:13:53[0m: Epoch 21/30  Instances 104992  target/train_xent: 0.04041    target/BLEU-1: 31.15    target/runtime_xent: 0.05985[1m    target/BLEU-4: 2.84[0m
+
+[31m2017-06-07 21:13:54[0m: Epoch 22 starts
+[33m2017-06-07 21:14:20[0m: Epoch 22/30  Instances 107432  target/train_xent: 0.04001    target/BLEU-1: 25.62    target/runtime_xent: 0.05983[1m    target/BLEU-4: 2.685[0m
+[33m2017-06-07 21:14:46[0m: Epoch 22/30  Instances 109992  target/train_xent: 0.04005    target/BLEU-1: 31.17    target/runtime_xent: 0.06028[1m    target/BLEU-4: 2.791[0m
+
+[31m2017-06-07 21:14:47[0m: Epoch 23 starts
+[33m2017-06-07 21:15:12[0m: Epoch 23/30  Instances 112432  target/train_xent: 0.03928    target/BLEU-1: 29.37    target/runtime_xent: 0.05967[1m    target/BLEU-4: 2.759[0m
+[33m2017-06-07 21:15:39[0m: Epoch 23/30  Instances 114992  target/train_xent: 0.03939    target/BLEU-1: 30.4    target/runtime_xent: 0.05985[1m    target/BLEU-4: 2.492[0m
+
+[31m2017-06-07 21:15:39[0m: Epoch 24 starts
+[33m2017-06-07 21:16:05[0m: Epoch 24/30  Instances 117432  target/train_xent: 0.03884    target/BLEU-1: 32.47    target/runtime_xent: 0.0596[1m    target/BLEU-4: 3.525[0m
+[33m2017-06-07 21:16:32[0m: Epoch 24/30  Instances 119992  target/train_xent: 0.03902    target/BLEU-1: 28.97    target/runtime_xent: 0.05982[1m    target/BLEU-4: 2.841[0m
+
+[31m2017-06-07 21:16:32[0m: Epoch 25 starts
+[33m2017-06-07 21:16:58[0m: Epoch 25/30  Instances 122432  target/train_xent: 0.03848    target/BLEU-1: 32.13    target/runtime_xent: 0.05986[1m    target/BLEU-4: 3.411[0m
+[33m2017-06-07 21:17:25[0m: Epoch 25/30  Instances 124992  target/train_xent: 0.03862    target/BLEU-1: 29.43    target/runtime_xent: 0.06027[1m    target/BLEU-4: 3.05[0m
+
+[34m2017-06-07 21:18:11[0m: Validation (epoch 25, batch number 38):
+[1mExamples:[0m
+[1m[35m  [1][0m
+  [33msource[0m: in the resolution , we recommend frontloading subject to cautious conditions .
+  [33msource_bpe[0m: in the resolution , we recommend front@@ loading subject to cautious conditions .
+  [33mtarget_bpe[0m: in der Entschließung knüpfen wir unsere Empfehlung an zurückhaltend formulierte Bedingungen .
+  [35mtarget[0m: das Europäische Parlament uns in diesem Thema haben .
+  [31mtarget (ref)[0m: in der Entschließung knüpfen wir unsere Empfehlung an zurückhaltend formulierte Bedingungen .
+
+[1m[35m  [2][0m
+  [33msource[0m: I would also like to comment on two other aspects .
+  [33msource_bpe[0m: I would also like to comment on two other aspects .
+  [33mtarget_bpe[0m: nun noch einige Bemerkungen zu zwei weiteren Aspekten .
+  [35mtarget[0m: ich möchte einige der Kommission .
+  [31mtarget (ref)[0m: nun noch einige Bemerkungen zu zwei weiteren Aspekten .
+
+[1m[35m  [3][0m
+  [33msource[0m: firstly , we share the rapporteur &apos; s vision that in the case of dual circulation , change in the retail trade should be given in euros .
+  [33msource_bpe[0m: firstly , we share the rapporteur &apos; s vision that in the case of dual circulation , change in the retail trade should be given in euros .
+  [33mtarget_bpe[0m: Erstens : Wir sind mit der Berichterstatterin der Meinung , daß im Falle des doppelten Um@@ laufs das Wechsel@@ geld im Einzelhandel in Euro herausgegeben werden muß .
+  [35mtarget[0m: Herr Präsident , die wir in der Europäischen Union in den Ländern Ländern , die in den Mitgliedstaaten auf die EU sind , die in der EU sind zehn alte europäische Länder .
+  [31mtarget (ref)[0m: Erstens : Wir sind mit der Berichterstatterin der Meinung , daß im Falle des doppelten Umlaufs das Wechselgeld im Einzelhandel in Euro herausgegeben werden muß .
+
+[1m[35m  [4][0m
+  [33msource[0m: this will , in fact , help shorten the period of dual currency circulation within Member States .
+  [33msource_bpe[0m: this will , in fact , help shor@@ ten the period of dual currency circulation within Member States .
+  [33mtarget_bpe[0m: dies erhöht außerdem die Chance , in den Mitgliedstaaten den Zeitraum des doppelten Um@@ laufs kurz zu halten .
+  [35mtarget[0m: in diesem Grund wird die Kommission in den Mitgliedstaaten auf die EU sind .
+  [31mtarget (ref)[0m: dies erhöht außerdem die Chance , in den Mitgliedstaaten den Zeitraum des doppelten Umlaufs kurz zu halten .
+
+[1m[35m  [5][0m
+  [33msource[0m: secondly , we are convinced that dual price display is a good thing .
+  [33msource_bpe[0m: secondly , we are convinced that dual price display is a good thing .
+  [33mtarget_bpe[0m: zweitens : Wir sind davon überzeugt , daß die doppelte Angabe von Preisen eine gute Sache ist .
+  [35mtarget[0m: es ist ein , dass wir ein Bericht von Herrn Menschen , das ist ein sehr wichtig .
+  [31mtarget (ref)[0m: zweitens : Wir sind davon überzeugt , daß die doppelte Angabe von Preisen eine gute Sache ist .
+
+[1m[35m  [6][0m
+  [33msource[0m: alongside euros , we definitely want to see pricing in national currency for a period after 2002 .
+  [33msource_bpe[0m: alongside euros , we definitely want to see pricing in national currency for a period after 2002 .
+  [33mtarget_bpe[0m: wir wollen sicher , daß auch nach dem Jahr 2002 die Preise noch eine Zeit@@ lang nicht nur in Euro , sondern auch in der jeweiligen nationalen Währungs@@ einheit angegeben werden .
+  [35mtarget[0m: in diesem Zusammenhang mit den Mitgliedstaaten auf die Europäische Union in den Mitgliedstaaten auf die anderen für die Europäische Union in diesem Bereich .
+  [31mtarget (ref)[0m: wir wollen sicher , daß auch nach dem Jahr 2002 die Preise noch eine Zeitlang nicht nur in Euro , sondern auch in der jeweiligen nationalen Währungseinheit angegeben werden .
+
+[1m[35m  [7][0m
+  [33msource[0m: this is mainly beneficial to the consumer but the retail trade too realises that it stands to benefit from this .
+  [33msource_bpe[0m: this is mainly beneficial to the consumer but the retail trade too realises that it stands to benefit from this .
+  [33mtarget_bpe[0m: das ist vor allem für die Verbraucher erforderlich , aber auch der Einzelhandel hat eingesehen , daß es für ihn ebenfalls von Nutzen ist .
+  [35mtarget[0m: das ist die Kommission zu diesem Grund , daß die Kommission zu diesem Grund ist , daß es sich um zu diesem Thema zu sagen .
+  [31mtarget (ref)[0m: das ist vor allem für die Verbraucher erforderlich , aber auch der Einzelhandel hat eingesehen , daß es für ihn ebenfalls von Nutzen ist .
+
+[1m[35m  [8][0m
+  [33msource[0m: however , to talk about imposing statutory obligations concerning these two aspects now does not seem appropriate to us , certainly not at this early stage .
+  [33msource_bpe[0m: however , to talk about imposing statutory obligations concerning these two aspects now does not seem appropriate to us , certainly not at this early stage .
+  [33mtarget_bpe[0m: gleichwohl halten wir es vor allem zum jetzigen Zeitpunkt nicht für angebracht , schon von gesetzlichen Verpflichtungen in bezug auf diese beiden Aspekte zu sprechen .
+  [35mtarget[0m: wenn wir die Kommission nicht nur mit dem Rat , daß wir nicht nur mit dem Rat nicht , sondern auch die Kommission nicht nur mit dem Rat nicht zu einem Dialog zwischen den Parteien nicht nur mit dem Parlament nicht nur zu unterstützen .
+  [31mtarget (ref)[0m: gleichwohl halten wir es vor allem zum jetzigen Zeitpunkt nicht für angebracht , schon von gesetzlichen Verpflichtungen in bezug auf diese beiden Aspekte zu sprechen .
+
+[1m[35m  [9][0m
+  [33msource[0m: you will have realised that , according to the PPE Group , Mrs Torres Marques has done a sterling job and we fully endorse her report .
+  [33msource_bpe[0m: you will have realised that , according to the PPE Group , Mrs Torres Marques has done a sterling job and we fully endorse her report .
+  [33mtarget_bpe[0m: Kollegin Torres Marques hat nach Meinung der EVP-Fraktion hervorragende Arbeit geleistet , und wir unterstützen ihren Bericht ohne Einschränkungen .
+  [35mtarget[0m: wir haben die Kommission , dass die Kommission und ihre ihre ihre ihre ihre sind , weil sie haben und ihre ihre Arbeit zu tun .
+  [31mtarget (ref)[0m: Kollegin Torres Marques hat nach Meinung der EVP-Fraktion hervorragende Arbeit geleistet , und wir unterstützen ihren Bericht ohne Einschränkungen .
+
+[1m[35m  [10][0m
+  [33msource[0m: we will only suggest a few refinements when the amendments are discussed at the vote .
+  [33msource_bpe[0m: we will only suggest a few refin@@ ements when the amendments are discussed at the vote .
+  [33mtarget_bpe[0m: bei der Abstimmung werden wir anhand von Änderungsanträgen nur noch einige kleine Verf@@ ein@@ erungen anbringen .
+  [35mtarget[0m: wir werden die Kommission in den Mitgliedstaaten auf die EU sind , die sich auf die Frage des Rates .
+  [31mtarget (ref)[0m: bei der Abstimmung werden wir anhand von Änderungsanträgen nur noch einige kleine Verfeinerungen anbringen .
+
+[1m[35m  [11][0m
+  [33msource[0m: we hope that the Member States and also the European institutions will continue to bear in mind that we are also to be consulted at future stages , so that the introduction of euro coins and banknotes in 2002 will be a huge success .
+  [33msource_bpe[0m: we hope that the Member States and also the European institutions will continue to bear in mind that we are also to be consulted at future stages , so that the introduction of euro coins and banknotes in 2002 will be a huge success .
+  [33mtarget_bpe[0m: wir hoffen , die Mitgliedstaaten und die europäischen Institutionen berücksichtigen auch in Zukunft , daß wir bei weiteren Schritten ebenfalls konsultiert werden , damit die Einführung der Euro-Münzen und -@@ Banknoten im Jahr 2002 wirklich ein Erfolg wird .
+  [35mtarget[0m: wir müssen die Kommission und die Bürger in den Mitgliedstaaten auf die EU sind , dass wir die EU sind , die sie auch für die EU und diese werden wird .
+  [31mtarget (ref)[0m: wir hoffen , die Mitgliedstaaten und die europäischen Institutionen berücksichtigen auch in Zukunft , daß wir bei weiteren Schritten ebenfalls konsultiert werden , damit die Einführung der Euro-Münzen und -Banknoten im Jahr 2002 wirklich ein Erfolg wird .
+
+[1m[35m  [12][0m
+  [33msource[0m: Mr President , I wish to begin by congratulating Helena Torres Marques on her excellent report .
+  [33msource_bpe[0m: Mr President , I wish to begin by congratulating Hel@@ ena Torres Marques on her excellent report .
+  [33mtarget_bpe[0m: Herr Präsident , ich möchte zunächst meine Kollegin Hel@@ ena Torres Marques zu ihrem ausgezeichneten Bericht beglückwünschen .
+  [35mtarget[0m: Herr Präsident ! Ich möchte ich mich Herrn Herrn Herrn Herrn Bericht von Herrn Herrn Herrn Bericht von Herrn Herrn Herrn Herrn Bericht zu Herrn Herrn Bericht Herrn Herrn Bericht Herrn Herrn Herrn Bericht Herrn Herrn Herrn Bericht Herrn Herrn Bericht Herrn Herrn Herrn Bericht Herrn Herrn Herrn Bericht Herrn
+  [31mtarget (ref)[0m: Herr Präsident , ich möchte zunächst meine Kollegin Helena Torres Marques zu ihrem ausgezeichneten Bericht beglückwünschen .
+
+[1m[35m  [13][0m
+  [33msource[0m: Mr President , the euro is already the second most important currency in the world .
+  [33msource_bpe[0m: Mr President , the euro is already the second most important currency in the world .
+  [33mtarget_bpe[0m: der Euro ist bereits zur zweit@@ wichtigsten Währung in der Welt geworden .
+  [35mtarget[0m: Herr Präsident ! Ich möchte die Frage der Europäischen Union ist .
+  [31mtarget (ref)[0m: der Euro ist bereits zur zweitwichtigsten Währung in der Welt geworden .
+
+[1m[35m  [14][0m
+  [33msource[0m: the actual introduction of the euro from 2002 will dramatically increase the demand for euros .
