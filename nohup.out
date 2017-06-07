@@ -1,0 +1,143 @@
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.8.0 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.8.0 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.8.0 locally
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: GeForce GTX TITAN X
+major: 5 minor: 2 memoryClockRate (GHz) 1.076
+pciBusID 0000:03:00.0
+Total memory: 11.92GiB
+Free memory: 11.81GiB
+W tensorflow/stream_executor/cuda/cuda_driver.cc:590] creating context when one is currently active; existing: 0xac9c4e0
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 1 with properties: 
+name: GeForce GTX TITAN X
+major: 5 minor: 2 memoryClockRate (GHz) 1.076
+pciBusID 0000:04:00.0
+Total memory: 11.92GiB
+Free memory: 11.46GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 1 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 1:   Y Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX TITAN X, pci bus id: 0000:03:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:1) -> (device: 1, name: GeForce GTX TITAN X, pci bus id: 0000:04:00.0)
+E tensorflow/stream_executor/cuda/cuda_driver.cc:1002] failed to allocate 3.92G (4207083520 bytes) from device: CUDA_ERROR_OUT_OF_MEMORY
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 5736 get requests, put_count=2316 evicted_count=1000 eviction_rate=0.431779 and unsatisfied allocation rate=0.788006
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 100 to 110
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 0 get requests, put_count=2012 evicted_count=2000 eviction_rate=0.994036 and unsatisfied allocation rate=0
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 1208 get requests, put_count=4222 evicted_count=3000 eviction_rate=0.710564 and unsatisfied allocation rate=0
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 7224 get requests, put_count=6913 evicted_count=4000 eviction_rate=0.57862 and unsatisfied allocation rate=0.599114
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 193 to 212
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 0 get requests, put_count=1023 evicted_count=1000 eviction_rate=0.977517 and unsatisfied allocation rate=0
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 1210 get requests, put_count=4238 evicted_count=3000 eviction_rate=0.707881 and unsatisfied allocation rate=0
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 7224 get requests, put_count=7108 evicted_count=4000 eviction_rate=0.562746 and unsatisfied allocation rate=0.574336
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 372 to 409
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 422 get requests, put_count=2466 evicted_count=2000 eviction_rate=0.81103 and unsatisfied allocation rate=0
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 7928 get requests, put_count=8017 evicted_count=4000 eviction_rate=0.49894 and unsatisfied allocation rate=0.500126
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 596 to 655
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 1248 get requests, put_count=3320 evicted_count=2000 eviction_rate=0.60241 and unsatisfied allocation rate=0
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 288 get requests, put_count=1383 evicted_count=1000 eviction_rate=0.723066 and unsatisfied allocation rate=0
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 1118 get requests, put_count=2245 evicted_count=1000 eviction_rate=0.445434 and unsatisfied allocation rate=0
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 7224 get requests, put_count=6736 evicted_count=2000 eviction_rate=0.296912 and unsatisfied allocation rate=0.367802
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 1863 to 2049
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 7002 get requests, put_count=6751 evicted_count=1000 eviction_rate=0.148126 and unsatisfied allocation rate=0.217509
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 2997 to 3296
+[34m2017-06-07 20:54:56[0m: Loading INI file: 'exp-nm-mt/translation.ini'
+[33m2017-06-07 20:54:56[0m: INI file is parsed.
+[33m2017-06-07 20:54:56[0m: Building model based on the config.
+[33m2017-06-07 20:54:57[0m: Vocabulary from BPE merges loaded. Size: 50140 subwords
+[33m2017-06-07 20:54:57[0m: Sample of the vocabulary: ['Senate', 'oul', 'Kraftstoff@@', 'inst@@', 'ansteigen']
+[33m2017-06-07 20:54:57[0m: Initializing sentence encoder, name: 'sentence_encoder'
+[33m2017-06-07 20:54:57[0m: Sentence encoder initialized
+[33m2017-06-07 20:54:57[0m: Initializing decoder, name: 'decoder'
+[33m2017-06-07 20:54:57[0m: Using linear projection of encoders as the initial state
+[33m2017-06-07 20:54:57[0m: No output projection specified - using simple concatenation
+[33m2017-06-07 20:55:00[0m: Decoder initalized.
+[33m2017-06-07 20:55:00[0m: Initializing BPE preprocessor
+[33m2017-06-07 20:55:01[0m: Initializing dataset with: target, source
+[33m2017-06-07 20:55:09[0m: Initializing dataset with: target, source
+[33m2017-06-07 20:55:10[0m: Dataset length: 1000
+[33m2017-06-07 20:55:12[0m: Model built.
+[32m================================================================================[0m
+[32mTRANSLATION[0m
+[32m================================================================================[0m
+Launched at 2017-06-07 20:55:12
+Experiment directory: out-example-translation
+
+[33m2017-06-07 20:55:12[0m: The model has 27 trainable variables:
+
+[1m[33m                                 Variable name                                         Shape           Size   
+[0m
+sentence_encoder/input_projection/word_embeddings:0                             [50140, 512]          25671680
+sentence_encoder/bidirectional_rnn/fw/OrthoGRUCell/gates/weights:0              [1024, 1024]           1048576
+sentence_encoder/bidirectional_rnn/fw/OrthoGRUCell/gates/biases:0               [1024]                    1024
+sentence_encoder/bidirectional_rnn/fw/OrthoGRUCell/candidate/weights:0          [1024, 512]             524288
+sentence_encoder/bidirectional_rnn/fw/OrthoGRUCell/candidate/biases:0           [512]                      512
+sentence_encoder/bidirectional_rnn/bw/OrthoGRUCell/gates/weights:0              [1024, 1024]           1048576
+sentence_encoder/bidirectional_rnn/bw/OrthoGRUCell/gates/biases:0               [1024]                    1024
+sentence_encoder/bidirectional_rnn/bw/OrthoGRUCell/candidate/weights:0          [1024, 512]             524288
+sentence_encoder/bidirectional_rnn/bw/OrthoGRUCell/candidate/biases:0           [512]                      512
+decoder/initial_state/encoders_projection/weights:0                             [1024, 512]             524288
+decoder/initial_state/encoders_projection/biases:0                              [512]                      512
+decoder/word_embeddings:0                                                       [50140, 512]          25671680
+decoder/state_to_word_W:0                                                       [512, 50140]          25671680
+decoder/state_to_word_b:0                                                       [50140]                  50140
+decoder/attention_sentence_encoder/AttnW:0                                      [1, 1, 1024, 1024]     1048576
+decoder/attention_sentence_encoder/AttnV:0                                      [1024]                    1024
+decoder/attention_sentence_encoder/AttnV_b:0                                    []                           1
+decoder/attention_decoder/LinearProjection/LinearProjection/weights:0           [1536, 512]             786432
+decoder/attention_decoder/LinearProjection/LinearProjection/biases:0            [512]                      512
+decoder/attention_decoder/gru_cell/gates/weights:0                              [1024, 1024]           1048576
+decoder/attention_decoder/gru_cell/gates/biases:0                               [1024]                    1024
+decoder/attention_decoder/gru_cell/candidate/weights:0                          [1024, 512]             524288
+decoder/attention_decoder/gru_cell/candidate/biases:0                           [512]                      512
+decoder/attention_decoder/attention_sentence_encoder/Attention/weights:0        [512, 1024]             524288
+decoder/attention_decoder/attention_sentence_encoder/Attention/biases:0         [1024]                    1024
+decoder/attention_decoder/AttnOutputProjection/AttnOutputProjection/weights:0   [1536, 512]             786432
+decoder/attention_decoder/AttnOutputProjection/AttnOutputProjection/biases:0    [512]                      512
+
+[33m2017-06-07 20:55:12[0m: Total number of all parameters: 85461981
+[33m2017-06-07 20:55:17[0m: Initializing TensorBoard summary writer.
+[33m2017-06-07 20:55:19[0m: TensorBoard writer initialized.
+[33m2017-06-07 20:55:19[0m: Starting training
+
+[31m2017-06-07 20:55:19[0m: Epoch 1 starts
+[33m2017-06-07 20:55:49[0m: Epoch 1/30  Instances 2432  target/train_xent: 0.07442    target/BLEU-1: 5.516    target/runtime_xent: 0.1232[1m    target/BLEU-4: 0.09377[0m
+[33m2017-06-07 20:56:16[0m: Epoch 1/30  Instances 4992  target/train_xent: 0.06797    target/BLEU-1: 8.124    target/runtime_xent: 0.08893[1m    target/BLEU-4: 0.1054[0m
+
+[31m2017-06-07 20:56:16[0m: Epoch 2 starts
+[33m2017-06-07 20:56:42[0m: Epoch 2/30  Instances 7432  target/train_xent: 0.06473    target/BLEU-1: 11.85    target/runtime_xent: 0.07081[1m    target/BLEU-4: 0.1376[0m
+[33m2017-06-07 20:57:09[0m: Epoch 2/30  Instances 9992  target/train_xent: 0.06196    target/BLEU-1: 9.505    target/runtime_xent: 0.07047[1m    target/BLEU-4: 0.1627[0m
+
+[31m2017-06-07 20:57:09[0m: Epoch 3 starts
+[33m2017-06-07 20:57:35[0m: Epoch 3/30  Instances 12432  target/train_xent: 0.06002    target/BLEU-1: 17.66    target/runtime_xent: 0.06819[1m    target/BLEU-4: 0.4527[0m
+[33m2017-06-07 20:58:02[0m: Epoch 3/30  Instances 14992  target/train_xent: 0.0577    target/BLEU-1: 19.75    target/runtime_xent: 0.06811[1m    target/BLEU-4: 0.5259[0m
+
+[31m2017-06-07 20:58:02[0m: Epoch 4 starts
+[33m2017-06-07 20:58:28[0m: Epoch 4/30  Instances 17432  target/train_xent: 0.05629    target/BLEU-1: 19.66    target/runtime_xent: 0.06584[1m    target/BLEU-4: 0.7875[0m
+[33m2017-06-07 20:58:55[0m: Epoch 4/30  Instances 19992  target/train_xent: 0.05449    target/BLEU-1: 20.08    target/runtime_xent: 0.06481[1m    target/BLEU-4: 0.8259[0m
+
+[31m2017-06-07 20:58:55[0m: Epoch 5 starts
+[33m2017-06-07 20:59:21[0m: Epoch 5/30  Instances 22432  target/train_xent: 0.05348    target/BLEU-1: 22.16    target/runtime_xent: 0.0637[1m    target/BLEU-4: 0.696[0m
+[33m2017-06-07 20:59:47[0m: Epoch 5/30  Instances 24992  target/train_xent: 0.05219    target/BLEU-1: 22.44    target/runtime_xent: 0.06392[1m    target/BLEU-4: 0.7703[0m
+
+[31m2017-06-07 20:59:48[0m: Epoch 6 starts
+[33m2017-06-07 21:00:14[0m: Epoch 6/30  Instances 27432  target/train_xent: 0.05149    target/BLEU-1: 23.28    target/runtime_xent: 0.06301[1m    target/BLEU-4: 0.8097[0m
+[33m2017-06-07 21:00:40[0m: Epoch 6/30  Instances 29992  target/train_xent: 0.0505    target/BLEU-1: 23.21    target/runtime_xent: 0.06242[1m    target/BLEU-4: 0.8511[0m
+
+[31m2017-06-07 21:00:41[0m: Epoch 7 starts
+[33m2017-06-07 21:01:06[0m: Epoch 7/30  Instances 32432  target/train_xent: 0.05011    target/BLEU-1: 23.37    target/runtime_xent: 0.06188[1m    target/BLEU-4: 1.164[0m
+[33m2017-06-07 21:01:33[0m: Epoch 7/30  Instances 34992  target/train_xent: 0.04921    target/BLEU-1: 25.13    target/runtime_xent: 0.06217[1m    target/BLEU-4: 0.8575[0m
+
+[31m2017-06-07 21:01:33[0m: Epoch 8 starts
+[33m2017-06-07 21:01:59[0m: Epoch 8/30  Instances 37432  target/train_xent: 0.04879    target/BLEU-1: 20.02    target/runtime_xent: 0.06101[1m    target/BLEU-4: 1.102[0m
+[33m2017-06-07 21:02:26[0m: Epoch 8/30  Instances 39992  target/train_xent: 0.04814    target/BLEU-1: 24.83    target/runtime_xent: 0.06139[1m    target/BLEU-4: 1.051[0m
+
+[31m2017-06-07 21:02:26[0m: Epoch 9 starts
+[33m2017-06-07 21:02:52[0m: Epoch 9/30  Instances 42432  target/train_xent: 0.04771    target/BLEU-1: 26.22    target/runtime_xent: 0.06023[1m    target/BLEU-4: 1.976[0m
